@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.exe
+.idea/
+.vscode/
+*debug*
+commit-message.txt
+vendor
+build/
+tmp/

@@ -1,0 +1,8 @@
+.git
+.DS_Store
+.gomplate.yaml
+.gomplateignore
+gomplate.sh
+LICENSE
+out
+skeleton-data.yaml
