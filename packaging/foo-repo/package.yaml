@@ -1,0 +1,5 @@
+---
+name: foo-repo
+display: Foo Repo
+jinjaTest: {{ must.remain.post.gomplate }}
+version: 0.0.1
