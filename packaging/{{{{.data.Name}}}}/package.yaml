@@ -1,5 +1,0 @@
----
-name: {{{{ .data.Name }}}}
-display: {{{{ .data.DisplayName }}}}
-jinjaTest: {{ must.remain.post.gomplate }}
-version: 0.0.1
